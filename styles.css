@@ -1,7 +1,8 @@
 img {
-    width 200x; 
+    width: 100px;
 }
-body { 
-    text.align: center;
-    font.family: "Arial";
+
+body {
+    text-align: center;
+    font-family: "Sans";
 }
